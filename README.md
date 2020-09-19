@@ -16,8 +16,4 @@ The table illustrates us that the significance of the time students spent on doi
 |     Self-development    |      0.0148031    |      0.0049433    |       2.995      |      0.006286     |      **    |
 |           Hours         |      0.0260977    |      0.0060817    |       4.291      |      0.000252     |     ***    |
 |            ENT          |      0.0069319    |      0.0032097    |       2.160      |      0.041005     |      *     |
-<<<<<<< HEAD
 |           Books         |     -0.0005609    |      0.0006586    |     -0.852       |      0.402829     |            |
-=======
-|           Books         |     -0.0005609    |      0.0006586    |     -0.852       |      0.402829     |            |
->>>>>>> 98b1583cbad6302dc6afd8b4558537ea3a32960b
